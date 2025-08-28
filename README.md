@@ -1,4 +1,4 @@
-<img width="1852" height="835" alt="image" src="https://github.com/user-attachments/assets/66390055-4a37-42f2-9029-625134a9a479" /># 🛒 Vue Shop Pro
+# 🛒 Vue Shop Pro
 
 A modern **Vue.js + Bootstrap** e-commerce demo app.  
 It includes a product list, shopping cart, discount system, filters, and responsive design.  
